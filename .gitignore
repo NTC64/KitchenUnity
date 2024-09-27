@@ -1,0 +1,59 @@
+.vs/
+# Thý m?c Thý vi?n (Library)
+Library/
+
+# Thý m?c T?m th?i
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+
+# Thý m?c Tùy ch?nh (Custom) không c?n ð?y lên Git
+UserSettings/
+
+# Thý m?c ch?a d? li?u cache c?a Unity
+MemoryCaptures/
+
+# T?p tham chi?u Visual Studio
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# T?p Unity t? ð?ng t?o
+*.pidb.meta
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb
+
+# Thý m?c liên quan ð?n thông tin g? l?i
+.DS_Store
+.idea/
+.vs/
+
+# T?p c?u h?nh ðý?c t?o b?i h? ði?u hành
+*.apk
+*.ipa
+*.app
+*.exe
+*.dll
+
+# Thý m?c ch?a các build c?
+[Bb]uild/
+
+# Thý m?c không c?n thi?t ho?c cache khác
+[Tt]emp/
+[Tt]est/
+[Tt]empTesting/
+
+# T?p liên quan ð?n XR Plugin Management
+Assets/XR/Settings/ 
